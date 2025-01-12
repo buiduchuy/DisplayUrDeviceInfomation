@@ -1,0 +1,140 @@
+{
+  "OSType": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 16935657472,
+  "USEDRAM": 10052853760,
+  "CPU": [
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 650890,
+        "nice": 0,
+        "sys": 727875,
+        "idle": 20919328,
+        "irq": 111593
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 437515,
+        "nice": 0,
+        "sys": 285046,
+        "idle": 21575296,
+        "irq": 13046
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 856937,
+        "nice": 0,
+        "sys": 454046,
+        "idle": 20986796,
+        "irq": 7609
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 502281,
+        "nice": 0,
+        "sys": 298015,
+        "idle": 21497656,
+        "irq": 4453
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 540718,
+        "nice": 0,
+        "sys": 344437,
+        "idle": 21412468,
+        "irq": 6875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 690781,
+        "nice": 0,
+        "sys": 356640,
+        "idle": 21250234,
+        "irq": 8625
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 1178078,
+        "nice": 0,
+        "sys": 495437,
+        "idle": 20624328,
+        "irq": 18359
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 507328,
+        "nice": 0,
+        "sys": 265859,
+        "idle": 21524718,
+        "irq": 3046
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 623875,
+        "nice": 0,
+        "sys": 374234,
+        "idle": 21299968,
+        "irq": 10437
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 380828,
+        "nice": 0,
+        "sys": 246171,
+        "idle": 21671000,
+        "irq": 3609
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 533875,
+        "nice": 0,
+        "sys": 326843,
+        "idle": 21437359,
+        "irq": 4796
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "speed": 2592,
+      "times": {
+        "user": 1326671,
+        "nice": 0,
+        "sys": 395218,
+        "idle": 20576140,
+        "irq": 19640
+      }
+    }
+  ]
+}
